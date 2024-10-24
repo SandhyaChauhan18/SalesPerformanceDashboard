@@ -18,4 +18,4 @@ This project features an interactive E-commerce Sales Dashboard developed using 
 ### Installation
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
+   git clone https://github.com/SandhyaChauhan18/SalesPerformanceDashboard
